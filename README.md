@@ -1,6 +1,6 @@
 # vue-template
 
-> My Vue.js template used for projects
+> My Vue.js + express template used for projects
 
 ## Build Setup
 
